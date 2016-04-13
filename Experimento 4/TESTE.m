@@ -1,0 +1,8 @@
+subplot(4,1,1)
+plot(t1,y1)
+subplot(4,1,2)
+plot(t2,y2)
+subplot(4,1,3)
+plot(t3,y3)
+subplot(4,1,4)
+plot(t4,y4)
