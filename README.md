@@ -9,3 +9,4 @@ The experiments realized are:
   *  3 - DC Motor position using pole placement desing Part I 
   *  4 - DC Motor position using pole placement desing Part II - Using Real-Time Windows Target (RTWT) 
   *  5 - State Observer 
+  *  6 - Virtual Sensor for the speed control
